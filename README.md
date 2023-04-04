@@ -1,7 +1,7 @@
 # Desafio Gerenciador de Tarefas
 <br/>
 
-Este é um desafio proposto pelo bootcamp Ignite da [Rocketseat](https://www.rocketseat.com.br/). O projeto é uma aplicação para gerenciar tarefas (ou todos), com algumas mudanças. Agora é permitida a criação de usuários com `name` e `username` e cada usuário pode fazer o CRUD de seus próprios todos.
+Este é um desafio proposto pelo bootcamp Ignite da [Rocketseat](https://www.rocketseat.com.br/). O projeto é uma aplicação para gerenciar tarefas (ou todos), com algumas mudanças. Agora é permitida a criação de usuários com `name` e `username`, e cada usuário pode fazer o CRUD de seus próprios todos.
 
 A aplicação inclui as seguintes funcionalidades:
 
@@ -39,7 +39,7 @@ Este projeto foi desenvolvido em Node.js, com as seguintes tecnologias:
 
 Para executar este projeto, é necessário ter o Node.js instalado na sua máquina. Em seguida, siga os passos abaixo:
 
-1. Clone este repositório usando o comando git clone https://github.com/seu-usuario/nome-do-repositorio.git.
+1. Clone este repositório usando o comando git clone https://github.com/VictorGit01/ignite-template-trabalhando-com-middlewares-1.git.
 
 2. Navegue até o diretório do projeto com o comando `cd nome-do-repositorio`.
 
