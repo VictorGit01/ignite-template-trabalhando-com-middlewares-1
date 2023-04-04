@@ -39,7 +39,7 @@ Este projeto foi desenvolvido em Node.js, com as seguintes tecnologias:
 
 Para executar este projeto, é necessário ter o Node.js instalado na sua máquina. Em seguida, siga os passos abaixo:
 
-1. Clone este repositório usando o comando git clone https://github.com/VictorGit01/ignite-template-trabalhando-com-middlewares-1.git.
+1. Clone este repositório usando o comando git clone https://github.com/VictorGit01/ignite-template-trabalhando-com-middlewares.git.
 
 2. Navegue até o diretório do projeto com o comando `cd nome-do-repositorio`.
 
